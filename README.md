@@ -1,5 +1,5 @@
-教程：https://solana.com/developers/courses/connecting-to-offchain-data/oracles
+Tutorial: [Connecting to Offchain Data with Oracles](https://solana.com/developers/courses/connecting-to-offchain-data/oracles)
 
-教程中使用的预言机已经过时了，它有了大的更新，因此无法直接用。然后尝试使用新版本，但是代码跑不了，anchor test报错找不到fork相关的东西。因此只学习教程中的原理。
+The oracle used in the tutorial is outdated and has undergone significant updates, making it unusable as-is. Attempts to use the new version were unsuccessful, as the code fails to run, with anchor test reporting errors related to missing fork functionality. As a result, the focus was shifted to learning the principles outlined in the tutorial.
 
-见issue：https://github.com/coral-xyz/anchor/issues/1861
+Refer to the issue: https://github.com/coral-xyz/anchor/issues/1861
